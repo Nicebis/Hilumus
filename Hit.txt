@@ -5,5 +5,3 @@ an introduction to how GitHub works, tools to help you
 build software, and help merging your first lines of code.
 The home for all developers — including you.
 HIHIHIHIH
-Jiki
-
