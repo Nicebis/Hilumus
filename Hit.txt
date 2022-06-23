@@ -11,5 +11,9 @@ polochka
 Polokigord
 Nomakari
 jojo
+<<<<<<< HEAD
 Poza
 
+=======
+Poza
+>>>>>>> Nani
